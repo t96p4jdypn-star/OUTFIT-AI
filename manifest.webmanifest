@@ -1,7 +1,7 @@
 {
   "name": "OUTFIT AI",
   "short_name": "OUTFIT AI",
-  "description": "靴を中心にしたコーディネート支援アプリ",
+  "description": "毎日開きたくなる、靴を中心にしたコーディネート支援アプリ",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
